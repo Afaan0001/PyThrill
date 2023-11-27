@@ -12,10 +12,10 @@ You wake up in a dark alley, disoriented and surrounded by a thick fog. Your hea
 
 ## How to Play
 1. Clone the repository to your local machine.
-2. Run the `main.py` file to start the game.
+2. Run the `PyCraft.py` file to start the game.
 3. Make choices and navigate through the story to uncover the mysteries.
 
 ```bash
 git clone https://github.com/your-username/PyCraft.git
 cd PyCraft
-python main.py
+python PyCraft.py
