@@ -1,7 +1,7 @@
 import time
 
 def introduction():
-    print("Welcome to PyCraft: A Python-based Thriller Text Adventure Game!")
+    print("Welcome to PyThrill: A Python-based Thriller Text Adventure Game!")
     time.sleep(1)
     print("You wake up in a dark alley, disoriented and surrounded by a thick fog.")
     time.sleep(1)
@@ -67,7 +67,7 @@ def main():
     else:
         abandoned_building_scenario()
 
-    print("\nThanks for experiencing the thrilling adventure of PyCraft!")
+    print("\nThanks for experiencing the thrilling adventure of PyThrill!")
 
 if __name__ == "__main__":
     main()
