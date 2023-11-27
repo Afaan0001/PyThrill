@@ -19,3 +19,6 @@ You wake up in a dark alley, disoriented and surrounded by a thick fog. Your hea
 git clone https://github.com/your-username/PyCraft.git
 cd PyCraft
 python PyCraft.py
+
+## Note
+I know it's kind of basic, but it's my first step towards Python!
