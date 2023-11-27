@@ -1,4 +1,4 @@
-98# PyCraft: A Python-based Thriller Text Adventure Game
+PyCraft: A Python-based Thriller Text Adventure Game
 
 Welcome to PyCraft, a thrilling text adventure game written in Python. Embark on a mysterious journey filled with suspense, danger, and unexpected twists.
 
