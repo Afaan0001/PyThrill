@@ -1,4 +1,4 @@
-# PyCraft: A Python-based Thriller Text Adventure Game
+8# PyCraft: A Python-based Thriller Text Adventure Game
 
 Welcome to PyCraft, a thrilling text adventure game written in Python. Embark on a mysterious journey filled with suspense, danger, and unexpected twists.
 
@@ -15,10 +15,11 @@ You wake up in a dark alley, disoriented and surrounded by a thick fog. Your hea
 2. Run the `PyCraft.py` file to start the game.
 3. Make choices and navigate through the story to uncover the mysteries.
 
+## Note
+ I know it's kind of basic, but it's my first step towards Python.
+ 
 ```bash
 git clone https://github.com/your-username/PyCraft.git
 cd PyCraft
 python PyCraft.py
 
-## Note
-I know it's kind of basic, but it's my first step towards Python!
